@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-09-30T16:52:27",
+  "step": 100,
+  "brain": {
+    "input": {
+      "population": 100,
+      "generation": 100,
+      "total_births": 100,
+      "total_deaths": 0,
+      "avg_fitness": 100.0,
+      "max_fitness": 100.0,
+      "min_fitness": 100.0
+    },
+    "hidden": {
+      "population": 100,
+      "generation": 100,
+      "total_births": 100,
+      "total_deaths": 0,
+      "avg_fitness": 100.0,
+      "max_fitness": 100.0,
+      "min_fitness": 100.0
+    },
+    "output": {
+      "population": 67,
+      "generation": 100,
+      "total_births": 2008,
+      "total_deaths": 1941,
+      "avg_fitness": 0.00701492537313433,
+      "max_fitness": 0.01,
+      "min_fitness": 0.0
+    }
+  }
+}
